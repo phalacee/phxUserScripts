@@ -1,4 +1,4 @@
-/ ==UserScript==
+// ==UserScript==
 // @name        WebCoMark
 // @namespace   http://phalacee.com/userscripts/
 // @description Tracks webcomics for you
