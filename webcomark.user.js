@@ -49,14 +49,14 @@ function increment() {
     L = location.href;
     LL = L.length;
     for (e=LL-1; e>=0; --e) {
-	if (isDigit(L.charAt(e))) { 
-	    for(s=e-1; s>=0; --s) { 
-		if (!isDigit(L.charAt(s))) {
-		    break; 
+		if (isDigit(L.charAt(e))) { 
+		    for(s=e-1; s>=0; --s) { 
+			if (!isDigit(L.charAt(s))) {
+			    break; 
+			}
+		        break;
+		    }
 		}
-	        break;
-	    }
-	}
     }
      ++s;
     if (e<0) { 
@@ -113,7 +113,6 @@ function add_link( href, text, title )
       b.style.textAlign = 'center';
       document.body.appendChild( b );
   }
-        
 }
 
 function add_link_to_next_comic()
@@ -133,11 +132,6 @@ function add_link_to_last_read( href )
 
 function init()
 {
-  GM_registerMenuCommand('Set last read bookmark to this page', set_bookmark);
-//  var read_page = generate_regexp_for(last_read || this_page);
-//  var cur = this_page.match(read_page);
-//  var old = last_read.match(read_page);
-
   var cur_val = this_page, old_val = last_read, cur_num, old_num;
     
   cur_val = cur_val.replace("-", "");
