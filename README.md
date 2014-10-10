@@ -13,7 +13,7 @@ Auto Bookmarking of Web Comics with Last Read recall - Works with TamperMonkey a
 About
 -----
 
-This user script will allow you to add webcomics that use a sequential number for their strip ids to a list of sites in the cycle, and then you can read the comics, progressing through the cycle using the navigation elements the script inserts in to the site. Included in the navigation elements is a "Last Read" button that shows up when you are viewing previously read comic strips in the archive.
+This user script will allow you to add webcomics that use a sequential number for their strip ids to a list of sites in the cycle, and then you can read the comics, progressing through the cycle using the navigation elements the script inserts in to the site. Included in the navigation elements is a "Last Read" button that shows up when you are viewing previously read comic strips in the archive, and a '+' button that can increment the comic strip number (only works 100% of the time for strips not using dates for the strip id).
 
 
 Installation
