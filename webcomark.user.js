@@ -19,6 +19,10 @@ var site_host = location.hostname.replace( /^www\./i, '' );
 var this_page = location.pathname + location.search;
 var last_read = bookmarks[site_host] || '';
 
+/* ToDo: 
+-- allow for elements to be removed from the cycle
+*/
+
 // store bookmark as the last read page for this domain
 function set_bookmark( bookmark )
 {
