@@ -5,32 +5,23 @@
 // @version 1.0
 // @include     http://*cad-comic.com/cad/*
 // @include     http://*leasticoulddo.com/comic/*
-// @include     http://*gucomics.com/*
-// @include     http://*devilspanties.com/*
-// @include     http://*xkcd.com/*
-// @include     http://questionablecontent.net./view.php?comic=*
-// @include     http://*penny-arcade.com/comic/*
+// @include     http://*xkcd.com/*/
+// @include     http://questionablecontent.net/view.php?comic=*
 // ==/UserScript==
 // hostname => pathname+query of last read comic strip
-var bookmarks = eval( GM_getValue( 'bookmarks', '({})' ) );
+var bookmarks = eval( GM_getValue( 'webcomark', '({})' ) );
 var bookmarked = false; // keep state for whether bookmarked this time around
 
 var site_host = location.hostname.replace( /^www\./i, '' );
 var this_page = location.pathname + location.search;
 var last_read = bookmarks[site_host] || '';
 
-/* ToDo: 
--- allow for elements to be removed from the cycle
--- come up with a way to back this shit up
--- come up with some way to allow sync across multiple computers
-*/
-
 // store bookmark as the last read page for this domain
 function set_bookmark( bookmark )
 {
   bookmarked = true;
   bookmarks[site_host] = bookmark || this_page;
-  GM_setValue( 'bookmarks', bookmarks.toSource() );
+  GM_setValue( 'webcomark', bookmarks.toSource() );
 }
 
 function getNums(inTXT) {
