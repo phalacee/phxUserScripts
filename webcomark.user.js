@@ -21,6 +21,8 @@ var last_read = bookmarks[site_host] || '';
 
 /* ToDo: 
 -- allow for elements to be removed from the cycle
+-- come up with a way to back this shit up
+-- come up with some way to allow sync across multiple computers
 */
 
 // store bookmark as the last read page for this domain
