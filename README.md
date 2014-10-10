@@ -4,7 +4,6 @@ Repository
 This is a collection of all my various user scripts and user styles. I hope they prove to be as useful to you as they have for me.
 
 
-
 WebCoMark
 =========
 
@@ -19,7 +18,7 @@ This user script will allow you to add webcomics that use a sequential number fo
 Installation
 -----------
 
-
+Instructions to come as soon as I figure out how to allow tampermonkey to install from GitHub ...
 
 License
 =======
