@@ -7,6 +7,8 @@ This is a collection of all my various user scripts and user styles. I hope they
 WebCoMark
 =========
 
+WebCoMark ... WebComic ... get it? No? Okay.
+
 Auto Bookmarking of Web Comics with Last Read recall - Works with TamperMonkey and GreaseMonkey in Chrome and Firefox.
 
 About
