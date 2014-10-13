@@ -30,7 +30,7 @@ Script for helping with Imgur Links on Reddit
 
 About
 -----
-Sick of having imgur links to the page on reddit? This replaces imgur.com links to the page with links to the image and highlights i.imgur.com links on reddit.
+Sick of having imgur links to the HTML page on reddit? This replaces imgur.com links to the page with links to the image and highlights i.imgur.com links on reddit. It will also link to the ZIP for albums, and highlight them differently.
 
 Installation
 -----------
