@@ -33,6 +33,12 @@ Gmail User Style
 
 Changes the way Gmail looks to make it more informative at a glance, without overloading you with information.
 
+About
+-----
+
+* Adds attachment icons for each email. 
+* Shrinks labels down to a small size and places them at the end of the row, and has them expand on hover
+
 License
 =======
 
