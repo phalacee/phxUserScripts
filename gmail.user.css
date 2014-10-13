@@ -1,5 +1,6 @@
 @-moz-document url-prefix("http://mail.google.com/"), url-prefix("https://mail.google.com/") {
 
+/* Move labels */
 div.xS                     { position: relative; }
 div.yi                     { position: absolute; right: 0px; }
 div.yi .ar.as              { width: 17px; overflow: hidden; padding: 0px; }
@@ -7,13 +8,16 @@ div.yi .ar.as .av          { width: 17px; overflow: hidden;  padding: 0px; }
 tr.zA.yO:hover .ar.as      { width: auto; }
 tr.zA.yO:hover .ar.as .av  { width: auto; }
 
+/* Row colours */
 tr.zA.zE                   { background: #FF66A3 !important; }
 tr.zA.x7                   { background: #66FFE0 !important; }
 tr.zA.yO:hover             { background: #CCFF66 !important; }
 
+/* Compose Button */
 .T-I-KE,
 .T-I-KE.T-I.JW 			   { background-color: #A300CC !important; background-image: -webkit-linear-gradient(top,#CC66FF,#A300CC) !important; background-image: linear-gradient(top,#CC66FF,#A300CC) !important; border: 1px solid #8F47B2 !important; }
 
+/* Attachment Icons */
 img.yE[title$=xls],
 img.yE[title$=XLS] {
 width:0px!important;
