@@ -22,6 +22,14 @@ Installation
 
 Install this script in to your *Monkey scripts: https://raw.githubusercontent.com/phalacee/phxUserScripts/master/webcomark.user.js
 
+ToDo
+----
+* allow for elements to be removed from the cycle
+* come up with a way to back this shit up
+* come up with some way to allow sync across multiple computers
+
+
+
 License
 =======
 
