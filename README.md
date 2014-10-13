@@ -24,8 +24,8 @@ Install this script in to your *Monkey scripts: https://raw.githubusercontent.co
 
 ToDo
 ----
-* allow for elements to be removed from the cycle
-* come up with a way to back this shit up
+* allow for URLS to be removed from the cycle
+* come up with a way to back up/export progress data
 * come up with some way to allow sync across multiple computers
 
 
