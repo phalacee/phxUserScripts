@@ -13,8 +13,8 @@ function init() {
 	var links = document.getElementsByTagName('a');
 	for (var i = links.length - 1; i >= 0; --i) {
 		href = links[i].getAttribute('href');
-		if (i == 10) {
-			alert(href);
+		if (/\/imgur.com/i.test(href)) {
+			links[i].style.color = "#A6CF29";
 		}
 	}
 }
