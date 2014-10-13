@@ -217,7 +217,7 @@ background:url("data:image/gif;base64,R0lGODlhDwAQAOebACUnKjg4OD8/P0FBQUpKSg1ZvQ
 div.xS                     { position: relative; }
 div.yi                     { position: absolute; right: 0px; }
 div.yi .ar.as              { width: 17px; overflow: hidden; padding: 0px; }
-div.yi .ar.as .av          { width: 17px; overflow: hidden  padding: 0px; }
+div.yi .ar.as .av          { width: 17px; overflow: hidden;  padding: 0px; }
 tr.zA.yO:hover .ar.as      { width: auto; }
 tr.zA.yO:hover .ar.as .av  { width: auto; }
 }
