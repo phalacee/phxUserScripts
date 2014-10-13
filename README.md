@@ -23,7 +23,7 @@ This user script will allow you to add webcomics that use a sequential number fo
 Installation
 -----------
 
-Install this script in to your *Monkey scripts: https://raw.githubusercontent.com/phalacee/phxUsers/master/webcomark.user.js
+Install this script into your *Monkey scripts: https://raw.githubusercontent.com/phalacee/phxUsers/master/webcomark.user.js
 
 ToDo
 ----
