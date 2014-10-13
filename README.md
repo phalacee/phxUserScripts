@@ -4,7 +4,7 @@ Repository
 This is a collection of all my various user scripts and user styles. I hope they prove to be as useful to you as they have for me.
 
 * [WebCoMark User Script](https://github.com/phalacee/phxUsers#webcomark-user-script)
-* Gmail User Style
+* [Gmail User Style](https://github.com/phalacee/phxUsers#gmail-user-style)
 
 
 WebCoMark User Script
@@ -23,7 +23,7 @@ This user script will allow you to add webcomics that use a sequential number fo
 Installation
 -----------
 
-Install this script into your *Monkey scripts: https://raw.githubusercontent.com/phalacee/phxUsers/master/webcomark.user.js
+Install this script into your *Monkey scripts: [Install webcomark.user.js](https://raw.githubusercontent.com/phalacee/phxUsers/master/webcomark.user.js)
 
 ToDo
 ----
@@ -45,7 +45,7 @@ About
 Installation
 ------------
 
-Install this script into your Stylish scripts: https://raw.githubusercontent.com/phalacee/phxUsers/master/gmail.user.css
+Install this script into your Stylish scripts: [Install gmail.user.css](https://raw.githubusercontent.com/phalacee/phxUsers/master/gmail.user.css)
 
 ToDo
 ----
