@@ -4,6 +4,7 @@
 // @description Changes imgur links to the image instead of the page
 // @version 1.0
 // @include     http://*reddit.com/*
+// @include     https://*reddit.com/*
 // ==/UserScript==
 
 
