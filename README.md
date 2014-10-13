@@ -42,6 +42,11 @@ About
 * Adds attachment icons for each email. 
 * Shrinks labels down to a small size and places them at the end of the row, and has them expand on hover
 
+Installation
+------------
+
+Install this script into your Stylish scripts: https://raw.githubusercontent.com/phalacee/phxUsers/master/gmail.user.css
+
 License
 =======
 
