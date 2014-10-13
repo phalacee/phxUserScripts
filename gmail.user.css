@@ -220,4 +220,8 @@ div.yi .ar.as              { width: 17px; overflow: hidden; padding: 0px; }
 div.yi .ar.as .av          { width: 17px; overflow: hidden;  padding: 0px; }
 tr.zA.yO:hover .ar.as      { width: auto; }
 tr.zA.yO:hover .ar.as .av  { width: auto; }
+
+tr.zA.zE                   { background: #FF66A3 !important; }
+tr.zA.x7                   { background: #66FFE0 !important; }
+tr.zA.yO:hover             { background: #CCFF66 !important; }
 }
