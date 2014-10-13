@@ -5,3 +5,10 @@
 // @version 1.0
 // @include     http://*reddit.com/*
 // ==/UserScript==
+
+
+var links = document.getElementsByTagName('a');
+for (var i = links.length - 1; i >= 0; --i) {
+	href = links[i].getAttribute('href');
+	console.log(href);
+}
