@@ -37,7 +37,7 @@ Sick of having imgur links to the page on reddit? This replaces imgur.com links 
 
 Installation
 -----------
-Install this script into your *Monkey scripts: [Install webcomark.user.js](https://raw.githubusercontent.com/phalacee/phxUsers/master/reddit.user.js)
+Install this script into your *Monkey scripts: [Install reddit.user.js](https://raw.githubusercontent.com/phalacee/phxUsers/master/reddit.user.js)
 
 
 Gmail User Style
