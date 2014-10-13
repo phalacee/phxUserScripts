@@ -21,10 +21,8 @@ function init() {
 		}
 		// Swap to i.imgur.com
 		if (/\/imgur.com/i.test(href)) {
-			console.log(href);
 			newhref = href.replace("//imgur", "//i.imgur")  + ".jpg";
 			links[i].setAttribute('href', newhref);
-			console.log(newhref);
 		}
 	}
 }
