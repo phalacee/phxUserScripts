@@ -9,6 +9,7 @@ tr.zA.yO:hover .ar.as      { width: auto; }
 tr.zA.yO:hover .ar.as .av  { width: auto; }
 
 /* Row colours */
+tr.zA					   { background: #FFFFFF !important; }
 tr.zA.zE                   { background: #66FFE0 !important; }
 tr.zA.x7                   { background: #FF66A3 !important; }
 tr.zA.yO:hover             { background: #CCFF66 !important; }
