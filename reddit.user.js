@@ -16,13 +16,14 @@ function init() {
 
 		if (/imgur.com\/a/i.test(href)) { // Highlight albums
 			links[i].style.color = "#00CC99";
+			newhref = href.replace("?gallery", "") + "/zip";
+			links[i].setAttribute('href', newhref);
+		} else if (/\/imgur.com/i.test(href)) {
+			newhref = href.replace("//imgur", "//i.imgur").replace(".jpg", "")  + ".jpg";
+			links[i].setAttribute('href', newhref);
+			links[i].style.color = "#A6CF29";
 		} else if (/imgur.com/i.test(href)) { // Highlight individual images
 			links[i].style.color = "#A6CF29";
-		}
-		// Swap to i.imgur.com
-		if (/\/imgur.com/i.test(href)) {
-			newhref = href.replace("//imgur", "//i.imgur")  + ".jpg";
-			links[i].setAttribute('href', newhref);
 		}
 	}
 }
