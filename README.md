@@ -54,4 +54,4 @@ ToDo
 License
 =======
 
-This project is released under the GNU Public License v3.0 - please see the LICENSE file for more details.
+This project is released under the GNU Public License v3.0 - please see the [LICENSE](https://raw.githubusercontent.com/phalacee/phxUsers/master/LICENSE) file for more details.
