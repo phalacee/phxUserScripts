@@ -1,4 +1,6 @@
 @-moz-document url-prefix("http://mail.google.com/"), url-prefix("https://mail.google.com/") {
+/* General Elements */
+.AO .aeF { min-height: 0px !important; }
 
 /* Move labels */
 div.xS                     { position: relative; }
