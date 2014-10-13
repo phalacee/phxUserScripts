@@ -4,8 +4,8 @@ Repository
 This is a collection of all my various user scripts and user styles. I hope they prove to be as useful to you as they have for me.
 
 
-WebCoMark
-=========
+WebCoMark User Script
+=====================
 
 WebCoMark ... WebComic ... get it? No? Okay.
 
@@ -28,7 +28,10 @@ ToDo
 * come up with a way to back up/export progress data
 * come up with some way to allow sync across multiple computers
 
+Gmail User Style
+================
 
+Changes the way Gmail looks to make it more informative at a glance, without overloading you with information.
 
 License
 =======
