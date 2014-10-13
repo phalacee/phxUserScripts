@@ -7,8 +7,15 @@
 // ==/UserScript==
 
 
-var links = document.getElementsByTagName('a');
-for (var i = links.length - 1; i >= 0; --i) {
-	href = links[i].getAttribute('href');
-	console.log(href);
+function init() {
+
+	var links = document.getElementsByTagName('a');
+	for (var i = links.length - 1; i >= 0; --i) {
+		href = links[i].getAttribute('href');
+		if (i == 10) {
+			alert(href);
+		}
+	}
 }
+
+init();
