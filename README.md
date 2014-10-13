@@ -20,7 +20,7 @@ This user script will allow you to add webcomics that use a sequential number fo
 Installation
 -----------
 
-Instructions to come as soon as I figure out how to allow tampermonkey to install from GitHub ...
+Install this script in to your *Monkey scripts: https://raw.githubusercontent.com/phalacee/phxUserScripts/master/webcomark.user.js
 
 License
 =======
