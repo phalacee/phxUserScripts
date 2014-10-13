@@ -5,7 +5,6 @@ This is a collection of all my various user scripts and user styles. I hope they
 * [Reddit User Script](https://github.com/phalacee/phxUsers#reddit-user-script)
 * [Gmail User Style](https://github.com/phalacee/phxUsers#gmail-user-style)
 
-
 WebCoMark User Script
 =====================
 WebCoMark ... WebComic ... get it? No? Okay.
@@ -14,7 +13,6 @@ Auto Bookmarking of Web Comics with Last Read recall - Works with TamperMonkey a
 About
 -----
 This user script will allow you to add webcomics that use a sequential number for their strip ids to a list of sites in the cycle, and then you can read the comics, progressing through the cycle using the navigation elements the script inserts in to the site. Included in the navigation elements is a "Last Read" button that shows up when you are viewing previously read comic strips in the archive, and a "+" button that can increment the comic strip number (only works 100% of the time for strips not using dates for the strip id).
-
 
 Installation
 -----------
@@ -34,11 +32,9 @@ About
 -----
 Sick of having imgur links to the page on reddit? This replaces imgur.com links to the page with links to the image and highlights i.imgur.com links on reddit.
 
-
 Installation
 -----------
 Install this script into your *Monkey scripts: [Install reddit.user.js](https://raw.githubusercontent.com/phalacee/phxUsers/master/reddit.user.js)
-
 
 Gmail User Style
 ================
