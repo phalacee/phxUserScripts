@@ -9,14 +9,14 @@ tr.zA.yO:hover .ar.as      { width: auto; }
 tr.zA.yO:hover .ar.as .av  { width: auto; }
 
 /* Row colours */
-tr.zA					   { background: #FFFFFF !important; }
+tr.zA					   { background: transparent !important; }
 tr.zA.zE                   { background: #66FFE0 !important; }
 tr.zA.x7                   { background: #FF66A3 !important; }
 tr.zA.yO:hover             { background: #CCFF66 !important; }
 
 /* Compose Button */
 .T-I-KE,
-.T-I-KE.T-I.JW 			   { background-color: #A300CC !important; background-image: -webkit-linear-gradient(top,#CC66FF,#A300CC) !important; background-image: linear-gradient(top,#CC66FF,#A300CC) !important; border: 1px solid #8F47B2 !important; }
+.T-I-KE.T-I.JW 			   { background-color: #A300CC !important; background-image: -webkit-linear-gradient(top,#CC66FF,#A300CC) !important; background-image: linear-gradient(top,#CC66FF,#A300CC) !important; border: 1px solid #8F47B2 !important; color: #FFFFFF !important; }
 
 /* Folder Colours */
 .TO.NQ                     { background: #CCFF66 !important; }
