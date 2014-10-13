@@ -47,6 +47,10 @@ Installation
 
 Install this script into your Stylish scripts: https://raw.githubusercontent.com/phalacee/phxUsers/master/gmail.user.css
 
+ToDo
+----
+* Add support for Contacts pages too
+
 License
 =======
 
